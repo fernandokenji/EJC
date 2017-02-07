@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WSEJC" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Fernando\ Kenji\\Documents\\Visual\ Studio\ 2015\\Projects\\EJC2016\\WS\.EJC2016\\obj\\x86\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Fernando\ Kenji\\Documents\\Visual\ Studio\ 2015\\Projects\\EJC2016\\WS\.EJC2016\\obj\\x86\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

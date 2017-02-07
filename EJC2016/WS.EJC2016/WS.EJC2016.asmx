@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="WS.EJC2016.asmx.cs" Class="WS.EJC2016.Android" %>
