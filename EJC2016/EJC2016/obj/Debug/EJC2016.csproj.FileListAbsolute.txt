@@ -30,3 +30,6 @@ C:\Users\Fernando Kenji\Documents\Visual Studio 2015\Projects\EJC2016\EJC2016\ob
 C:\Users\Fernando Kenji\Documents\Visual Studio 2015\Projects\EJC2016\EJC2016\obj\Debug\EJC2016.exe
 C:\Users\Fernando Kenji\Documents\Visual Studio 2015\Projects\EJC2016\EJC2016\obj\Debug\EJC2016.pdb
 C:\Users\Fernando Kenji\Documents\Visual Studio 2015\Projects\EJC2016\EJC2016\obj\Debug\EJC2016.csprojResolveAssemblyReference.cache
+D:\Projetos\Git\EJC\EJC2016\EJC2016\bin\Debug\EJC2016.exe.config
+D:\Projetos\Git\EJC\EJC2016\EJC2016\obj\Debug\EJC2016.exe
+D:\Projetos\Git\EJC\EJC2016\EJC2016\obj\Debug\EJC2016.pdb
