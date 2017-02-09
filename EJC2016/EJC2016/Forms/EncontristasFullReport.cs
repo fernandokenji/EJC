@@ -21,7 +21,7 @@ namespace EJC2016.Forms
             InitializeComponent();
         }
 
-        string constr = @"Data Source=C:\Users\Fernando Kenji\Desktop\EJC2016\ejc.db;Version=3;";
+        string constr = @"Data Source=..\..\..\DataBase\ejc.db;Version=3;";
 
         private void EncontristasFullReport_Load(object sender, EventArgs e)
         {

@@ -9,7 +9,7 @@ namespace EJC2016.Dal
 {
     public class EquipeDal
     {
-        string constr = @"Data Source=C:\Users\Fernando Kenji\Desktop\EJC\ejc.db;Version=3;";
+        string constr = @"Data Source=..\..\..\DataBase\ejc.db;Version=3;";
 
         public EquipeDal()
         {

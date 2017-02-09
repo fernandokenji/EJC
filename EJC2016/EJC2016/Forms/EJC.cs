@@ -23,25 +23,25 @@ namespace EJC2016
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MergePDFs me = new MergePDFs();
-            me.AddFile("Roda.pdf");
-            me.AddFile("Pos.pdf");
-            me.SourceFolder = "C:\\Users\\fernando\\Desktop\\Docs\\";
-            me.DestinationFile = "Quadrante";
-            me.Execute();
+            //MergePDFs me = new MergePDFs();
+            //me.AddFile("Roda.pdf");
+            //me.AddFile("Pos.pdf");
+            //me.SourceFolder = "C:\\Users\\fernando\\Desktop\\Docs\\";
+            //me.DestinationFile = "Quadrante";
+            //me.Execute();
 
-            //EncontristasReport rpt = new EncontristasReport();
-            //var Equipe = new Equipe();
-            //var lstIds = Equipe.GetIdEquipes();
+            EncontristasReport rpt = new EncontristasReport();
+            var Equipe = new Equipe();
+            var lstIds = Equipe.GetIdEquipes();
 
-            //foreach (var equipeId in lstIds)
-            //{
-            //    AudioReport audioReport = new AudioReport(equipeId);
-            //    audioReport.Show();
-            //}
+            foreach (var equipeId in lstIds)
+            {
+                AudioReport audioReport = new AudioReport(equipeId);
+                audioReport.Show();
+            }
 
-            //EncontristasFullReport rpt1 = new EncontristasFullReport();
-            //rpt1.Show();
+            EncontristasFullReport rpt1 = new EncontristasFullReport();
+            rpt1.Show();
         }
     }
 }
